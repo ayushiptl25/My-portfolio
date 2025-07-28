@@ -2,11 +2,6 @@
 
 A clean, responsive, and modern portfolio website built using **ReactJS** to showcase my skills, projects, and contact details.
 
-##  Live Demo
-
-[Click here to view the live site](https://ayushiptl25.github.io/My-portfolio)  
-*Replace with your actual deployed link if available*
-
 ---
 
 ##  Tech Stack
