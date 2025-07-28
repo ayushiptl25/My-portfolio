@@ -4,7 +4,7 @@ A clean, responsive, and modern portfolio website built using **ReactJS** to sho
 
 ##  Live Demo
 
-[Click here to view the live site](https://your-username.github.io/portfolio)  
+[Click here to view the live site](https://ayushiptl25.github.io/My-portfolio)  
 *Replace with your actual deployed link if available*
 
 ---
